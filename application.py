@@ -27,5 +27,4 @@ Migrate(app, db)
 
 @app.route("/")
 def index():
-    u = User.query.filter_by(name='Martijn').first()
-    return f"Pinocchio's: {u.name}"
+    return f"Pinocchio's: TODO"
