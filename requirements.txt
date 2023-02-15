@@ -4,4 +4,4 @@ psycopg2-binary
 SQLAlchemy
 requests
 flask-migrate
-werkzeug==0.16
+werkzeug==2.2.3
